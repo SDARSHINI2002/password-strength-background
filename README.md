@@ -10,11 +10,6 @@ This tool evaluates password strength in real-time based on:
 	•	Numbers
 	•	Special characters
 
-It displays the strength using a colored progress bar:
-	•	🟥 Weak (Red)
-	•	🟨 Medium (Yellow)
-	•	🟩 Strong (Green)
-
 Includes a blurred background image using CSS filter: blur() or backdrop-filter to enhance focus on the input area.
 
 🛠 Technologies Used
